@@ -1,3 +1,5 @@
+![](images/glum911-profile_banner-db350282d2aa063d-480%20(1).png)
+
 #_Resume_
 
 _**Name/Surname:**_ *Leeroy Jenkins*
@@ -65,6 +67,6 @@ PHP
 
 ---
 
-![SANHAD CLAN](./images/SANHAD.jpg)
+![SANHAD CLAN](./images/Samurai.jpg)
 
 ---
